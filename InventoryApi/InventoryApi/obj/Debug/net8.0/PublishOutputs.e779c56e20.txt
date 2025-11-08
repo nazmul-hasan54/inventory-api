@@ -1,0 +1,11 @@
+D:\Inventory_Management\InventoryApi\InventoryApi\obj\Debug\net8.0\PubTmp\Out\InventoryApi.exe
+D:\Inventory_Management\InventoryApi\InventoryApi\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Inventory_Management\InventoryApi\InventoryApi\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+D:\Inventory_Management\InventoryApi\InventoryApi\obj\Debug\net8.0\PubTmp\Out\InventoryApi.dll
+D:\Inventory_Management\InventoryApi\InventoryApi\obj\Debug\net8.0\PubTmp\Out\InventoryApi.deps.json
+D:\Inventory_Management\InventoryApi\InventoryApi\obj\Debug\net8.0\PubTmp\Out\InventoryApi.runtimeconfig.json
+D:\Inventory_Management\InventoryApi\InventoryApi\obj\Debug\net8.0\PubTmp\Out\InventoryApi.pdb
+D:\Inventory_Management\InventoryApi\InventoryApi\obj\Debug\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Inventory_Management\InventoryApi\InventoryApi\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Inventory_Management\InventoryApi\InventoryApi\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Inventory_Management\InventoryApi\InventoryApi\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
