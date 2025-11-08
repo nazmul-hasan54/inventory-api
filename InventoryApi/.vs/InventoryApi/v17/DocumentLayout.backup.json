@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "D:\\inventory-management\\InventoryApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|d:\\inventory-management\\inventoryapi\\inventoryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|solutionrelative:inventoryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|d:\\inventory-management\\inventoryapi\\inventoryapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|solutionrelative:inventoryapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|d:\\inventory-management\\inventoryapi\\inventoryapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|solutionrelative:inventoryapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|d:\\inventory-management\\inventoryapi\\inventoryapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|solutionrelative:inventoryapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,16 +11,32 @@
       "RelativeMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|solutionrelative:inventoryapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|d:\\inventory-management\\inventoryapi\\inventoryapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|solutionrelative:inventoryapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|d:\\inventory-management\\inventoryapi\\inventoryapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|solutionrelative:inventoryapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|d:\\inventory-management\\inventoryapi\\inventoryapi\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|solutionrelative:inventoryapi\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|d:\\inventory-management\\inventoryapi\\inventoryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|solutionrelative:inventoryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|d:\\inventory-management\\inventoryapi\\inventoryapi\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|solutionrelative:inventoryapi\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|d:\\inventory-management\\inventoryapi\\inventoryapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|solutionrelative:inventoryapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|d:\\inventory-management\\inventoryapi\\inventoryapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|solutionrelative:inventoryapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|d:\\inventory-management\\inventoryapi\\inventoryapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|solutionrelative:inventoryapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|d:\\inventory-management\\inventoryapi\\inventoryapi\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|solutionrelative:inventoryapi\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9362A059-6581-4213-9DE2-43AF7A55A7FF}|InventoryApi\\InventoryApi.csproj|d:\\inventory-management\\inventoryapi\\inventoryapi\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,35 +94,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "InventoryApi\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "InventoryApi\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "InventoryApi\\Entities\\Product.cs",
+              "ToolTip": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Entities\\Product.cs",
+              "RelativeToolTip": "InventoryApi\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T15:20:08.103Z"
+              "WhenOpened": "2025-11-07T18:48:46.717Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "InventoryApi\\Repositories\\UserRepository.cs",
-              "ToolTip": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "InventoryApi\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T14:30:49.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "InventoryApi\\Entities\\Order.cs",
@@ -130,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "OrderDto.cs",
               "DocumentMoniker": "D:\\inventory-management\\InventoryApi\\InventoryApi\\DTOs\\OrderDto.cs",
               "RelativeDocumentMoniker": "InventoryApi\\DTOs\\OrderDto.cs",
@@ -142,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Repositories\\OrderRepository.cs",
               "RelativeDocumentMoniker": "InventoryApi\\Repositories\\OrderRepository.cs",
@@ -154,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Interface\\IUserRepository.cs",
               "RelativeDocumentMoniker": "InventoryApi\\Interface\\IUserRepository.cs",
@@ -166,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "UserDto.cs",
               "DocumentMoniker": "D:\\inventory-management\\InventoryApi\\InventoryApi\\DTOs\\UserDto.cs",
               "RelativeDocumentMoniker": "InventoryApi\\DTOs\\UserDto.cs",
@@ -178,19 +171,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "InventoryApi\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Controllers\\ProductController.cs",
               "RelativeToolTip": "InventoryApi\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAUwE4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T18:24:06.685Z"
+              "WhenOpened": "2025-11-04T18:24:06.685Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "OrderController.cs",
               "DocumentMoniker": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "InventoryApi\\Controllers\\OrderController.cs",
@@ -202,44 +196,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Interface\\IProductRepository.cs",
               "RelativeDocumentMoniker": "InventoryApi\\Interface\\IProductRepository.cs",
               "ToolTip": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Interface\\IProductRepository.cs",
               "RelativeToolTip": "InventoryApi\\Interface\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T15:09:35.679Z"
+              "WhenOpened": "2025-11-05T15:09:35.679Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "InventoryApi\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "InventoryApi\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:10:51.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Program.cs",
               "RelativeDocumentMoniker": "InventoryApi\\Program.cs",
               "ToolTip": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Program.cs",
               "RelativeToolTip": "InventoryApi\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAADgvx0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T15:30:28.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "InventoryApi\\Repositories\\ProductRepository.cs",
-              "ToolTip": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "InventoryApi\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAmwCEAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "InventoryApi\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "InventoryApi\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T15:10:51.666Z"
+              "WhenOpened": "2025-11-05T14:30:49.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "InventoryApi\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "InventoryApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwDsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:20:08.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Entities\\User.cs",
               "RelativeDocumentMoniker": "InventoryApi\\Entities\\User.cs",
@@ -251,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "OrderValidators.cs",
               "DocumentMoniker": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Validators\\OrderValidators.cs",
               "RelativeDocumentMoniker": "InventoryApi\\Validators\\OrderValidators.cs",
@@ -263,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Entities\\OrderItem.cs",
               "RelativeDocumentMoniker": "InventoryApi\\Entities\\OrderItem.cs",
@@ -275,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "OrderItemDto.cs",
               "DocumentMoniker": "D:\\inventory-management\\InventoryApi\\InventoryApi\\DTOs\\OrderItemDto.cs",
               "RelativeDocumentMoniker": "InventoryApi\\DTOs\\OrderItemDto.cs",
@@ -287,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ProductValidators.cs",
               "DocumentMoniker": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Validators\\ProductValidators.cs",
               "RelativeDocumentMoniker": "InventoryApi\\Validators\\ProductValidators.cs",
@@ -299,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Interface\\IAuthService.cs",
               "RelativeDocumentMoniker": "InventoryApi\\Interface\\IAuthService.cs",
@@ -311,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "OrderItemValidators.cs",
               "DocumentMoniker": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Validators\\OrderItemValidators.cs",
               "RelativeDocumentMoniker": "InventoryApi\\Validators\\OrderItemValidators.cs",
@@ -323,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "D:\\inventory-management\\InventoryApi\\InventoryApi\\Mapper\\MappingProfile.cs",
               "RelativeDocumentMoniker": "InventoryApi\\Mapper\\MappingProfile.cs",
